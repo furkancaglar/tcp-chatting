@@ -18,6 +18,8 @@ see the message logged with client id in all the other clients.
 - [ ] handle clients that are disconnected
 - [ ] implement chat rooms
 - [ ] implement private (1to1) chat
+- [ ] make logs more beatiful (understandable)
+- [ ] hadle messages longer then the buffer size (100byte)
 
 
 ### License
